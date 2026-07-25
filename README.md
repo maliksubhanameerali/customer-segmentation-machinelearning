@@ -3,6 +3,20 @@
 ## Overview
 This project applies K-Means clustering to segment customers into distinct groups based on income, spending behavior, purchase recency, and shopping channel activity. The goal is to identify actionable customer profiles that can inform targeted marketing strategies.
 
+## Visualizations
+
+### Correlation Heatmap
+
+![Correlation Heatmap](correlation_heatmap.png)
+
+### Elbow Method
+
+![Elbow Method](elbow_method.png)
+
+### Customer Segmentation (PCA)
+
+![Customer Segmentation](customer_segmentation_pca.png)
+
 ## Dataset
 The dataset contains customer records including demographic information (age, income) and behavioral data (spending, purchase frequency, recency, and website/in-store activity).
 
