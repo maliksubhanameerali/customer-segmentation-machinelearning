@@ -1,4 +1,3 @@
-# customer-segmentation-machinelearning
 # Customer Segmentation using K-Means Clustering
 
 ## Overview
