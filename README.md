@@ -52,3 +52,10 @@ Six distinct customer segments were identified:
 1. Clone this repo
    ```bash
    git clone <your-repo-url>
+
+## Installation
+
+```bash
+git clone https://github.com/maliksubhanameerali/customer-segmentation-machinelearning.git
+cd customer-segmentation-machinelearning
+pip install -r requirements.txt   
